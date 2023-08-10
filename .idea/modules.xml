@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hackthon.iml" filepath="$PROJECT_DIR$/.idea/Hackthon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email-service/email-service.iml" filepath="$PROJECT_DIR$/email-service/email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/policy-selection-service/microserevices-insurance-policy.iml" filepath="$PROJECT_DIR$/policy-selection-service/microserevices-insurance-policy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/policy-generation-service/policy-generation-service.iml" filepath="$PROJECT_DIR$/policy-generation-service/policy-generation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/policyService/policyService.iml" filepath="$PROJECT_DIR$/policyService/policyService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactionService/transactionService.iml" filepath="$PROJECT_DIR$/transactionService/transactionService.iml" />
+    </modules>
+  </component>
+</project>
